@@ -1,0 +1,17 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  gap: 2;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.openAIimage{
+  height: 15rem;
+  width: 15rem;
+  object-fit: contain;
+}
